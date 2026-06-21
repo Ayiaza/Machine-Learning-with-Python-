@@ -1,4 +1,4 @@
-# Simple Machine Learning Classifier (VS Code Edition)
+# Simple Machine Learning Classifier 
 
 A beginner-friendly Python machine learning program built inside **VS Code**. It trains a K-Nearest Neighbors (KNN) model to classify flower species using the classic Iris dataset.
 
