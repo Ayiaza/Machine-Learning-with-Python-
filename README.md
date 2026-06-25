@@ -39,3 +39,4 @@ A beginner-friendly machine learning project that trains a Random Forest classif
 This project demonstrates a clean, end-to-end machine learning workflow using one of the most popular algorithms in data science. It's a strong foundation for anyone stepping into the world of supervised learning and model evaluation.
 ----
 ## Run the Project
+https://github.com/user-attachments/assets/76a05cd3-d632-4dda-a291-ae7bf674c31c
